@@ -25,8 +25,6 @@ A flight training academy needed to understand which factors most strongly influ
 
 - **Untapped recruitment markets identified.** Gray states on the geographic map represent regions with no current Skyborne enrollment. Expanding into these markets could diversify and grow the trainee pipeline.
 
----
-
 ## Dashboard Pages
 - **Executive Overview** — High-level KPIs and placement summary
 - **Training Performance** — Duration analysis and phase breakdowns
