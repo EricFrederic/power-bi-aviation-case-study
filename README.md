@@ -31,7 +31,7 @@ A flight training academy needed to understand which factors most strongly influ
 - **Airline Placement** — Partner network and geographic distribution
 - **Instructor & Cohort Performance** — Instructor effectiveness analysis
 - **Insights & Recommendations** — Key findings and strategic recommendations
-- 
+  
 <img width="699" height="392" alt="Screenshot 2026-06-20 144321" src="https://github.com/user-attachments/assets/e906718d-e740-45bb-8358-ed2a6f238033" />
 <img width="701" height="394" alt="Screenshot 2026-06-20 144435" src="https://github.com/user-attachments/assets/5d0f8c8f-027e-4ad1-9140-82beda637732" />
 
