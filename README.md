@@ -2,30 +2,32 @@
 
 **Overview**
 
-A five-page interactive Power BI dashboard developed as a case study for a regional aviation training academy, analyzing workforce placement outcomes across 200 trainees and 25 airline partners.
+**Interactive Power BI Dashboard** analyzing trainee placement outcomes for a regional aviation training academy.
+## Key Findings
+- **Overall Placement Rate**: 83.5%
+- **Strongest Predictor of Success**: Instructor assignment (28.7 percentage point gap between top and bottom performers)
+- Geographic analysis showed significant variation in placement rates by state
+- Balanced distribution across airline partners (most placed ~7 trainees each)
 
-**Key Findings**
+## Dashboard Pages
+- **Executive Overview** — High-level KPIs and placement summary
+- **Training Performance** — Duration analysis and phase breakdowns
+- **Airline Placement** — Partner network and geographic distribution
+- **Instructor & Cohort Performance** — Instructor effectiveness analysis
+- **Insights & Recommendations** — Key findings and strategic recommendations
 
-Overall placement rate: 83.5%
-Instructor assignment was the strongest predictor of placement success, with a 28.7 percentage point gap between top and bottom performing instructors
-Geographic analysis revealed significant variation in placement rates by state
-Airline partner network showed balanced distribution with most partners placing 7 trainees each
+## Technical Details
+- Built in **Microsoft Power BI Desktop**
+- 16 custom DAX measures in a dedicated measures table
+- Semantic data model with star schema architecture
+- Synthetic dataset of 200 trainees
 
-**Dashboard Pages**
+## Tools Used
+- Power BI Desktop
+- DAX
+- Power Query
+- SQL (data preparation)
 
-Executive Overview — high level KPIs and placement summary
-Training Performance — duration analysis and phase breakdowns
-Airline Placement — partner network analysis and geographic distribution
-Instructor and Cohort Performance — instructor effectiveness analysis
-Insights and Recommendations — key findings and strategic recommendations
-
-**Technical Details**
-
-Built in Microsoft Power BI Desktop
-16 custom DAX measures in a dedicated measures table
-Semantic data model with star schema architecture
-Synthetic dataset of 200 trainees
-
-**Tools Used**
-
-Power BI, DAX, Power Query, Excel
+## Repository Contents
+- `Skyborne_Case_Study.pbix` — Main Power BI file
+- `Documentation/` — Methodology and full insights PDF
