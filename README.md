@@ -51,6 +51,11 @@ A flight training academy needed to understand which factors most strongly influ
 - 16 custom DAX measures in a dedicated measures table
 - Semantic data model with star schema architecture
 - Synthetic dataset of 200 trainees
+- Data cleaning performed in Power Query
+- Calculated placement-rate measures
+- Built geographic mapping visuals
+- Created instructor-performance comparisons
+- Designed interactive filtering across pages
 
 ## Tools Used
 - Power BI Desktop
