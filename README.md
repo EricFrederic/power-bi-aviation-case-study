@@ -24,13 +24,13 @@ A flight training academy needed to understand which factors most strongly influ
 
 ## Dashboard Pages
 - **Executive Overview** — High-level KPIs and placement summary
-- <img width="706" height="389" alt="SB" src="https://github.com/user-attachments/assets/90e1832b-80bf-41ae-a91c-9067faba90d0" />
+<img width="706" height="389" alt="SB" src="https://github.com/user-attachments/assets/90e1832b-80bf-41ae-a91c-9067faba90d0" />
 - **Training Performance** — Duration analysis and phase breakdowns
-- <img width="699" height="392" alt="Screenshot 2026-06-20 144321" src="https://github.com/user-attachments/assets/669c4e87-a142-4a7e-b45d-442c4ffddb1f" />
+<img width="699" height="392" alt="Screenshot 2026-06-20 144321" src="https://github.com/user-attachments/assets/669c4e87-a142-4a7e-b45d-442c4ffddb1f" />
 - **Airline Placement** — Partner network and geographic distribution
-  <img width="701" height="394" alt="Screenshot 2026-06-20 144435" src="https://github.com/user-attachments/assets/cf4a9584-b550-4a9c-8a1f-1d7fa05c12c1" />
+<img width="701" height="394" alt="Screenshot 2026-06-20 144435" src="https://github.com/user-attachments/assets/cf4a9584-b550-4a9c-8a1f-1d7fa05c12c1" />
 - **Instructor & Cohort Performance** — Instructor effectiveness analysis
-  <img width="701" height="394" alt="Screenshot 2026-06-20 175949" src="https://github.com/user-attachments/assets/41c2ba6b-86b5-4cc1-8c6c-d1cb468257be" />
+<img width="701" height="394" alt="Screenshot 2026-06-20 175949" src="https://github.com/user-attachments/assets/41c2ba6b-86b5-4cc1-8c6c-d1cb468257be" />
 - **Insights & Recommendations** — Key findings and strategic recommendations
 
 ## Limitations & Recommended Next Steps
