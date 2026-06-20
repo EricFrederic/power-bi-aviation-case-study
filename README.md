@@ -1,5 +1,9 @@
 # Aviation Workforce Analytics — Power BI Case Study
 
+## Business Problem
+
+A flight training academy needed to understand which factors most strongly influence trainee placement outcomes and identify opportunities to improve recruitment, training effectiveness, and airline partnerships. The goal of this analysis was to evaluate trainee performance, instructor effectiveness, and geographic recruiting trends in order to identify actionable opportunities to improve placement rates.
+
 **Overview**
 
 **Interactive Power BI Dashboard** analyzing trainee placement outcomes for a regional aviation training academy.
