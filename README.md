@@ -23,6 +23,33 @@
 <img width="699" height="392" alt="Screenshot 2026-06-20 144321" src="https://github.com/user-attachments/assets/e906718d-e740-45bb-8358-ed2a6f238033" />
 <img width="701" height="394" alt="Screenshot 2026-06-20 144435" src="https://github.com/user-attachments/assets/5d0f8c8f-027e-4ad1-9140-82beda637732" />
 
+## Key Findings & Insights
+
+- **83.5% overall placement rate** — 167 of 200 trainees placed across 25 airline partners, establishing a strong performance benchmark for the academy.
+
+- **Instructor assignment is the strongest predictor of placement success.** Charlotte Brooks and Mia Collins achieved 96.6% placement rates while Daniel Cooper achieved 67.9% — a 28.7 percentage point gap that warrants immediate attention and further investigation.
+
+- **Training duration does not predict placement outcome.** Placed and unplaced trainees trained for nearly identical durations (18.0 vs. 18.9 months). This suggests that early intervention based on time-in-training alone would be misguided.
+
+- **Geographic variation in placement rates is significant.** Trainees from AZ, CO, IL, LA, NY, OH, TN, VA, and WA achieved near-perfect placement rates, representing Skyborne's strongest recruitment markets. IN and MO underperform — targeted employer outreach and airline network development in these markets is recommended.
+
+- **Balanced airline partner network.** Placements are evenly distributed across all 25 airline partners at approximately 6.7 trainees per airline, indicating no single-airline dependency risk.
+
+- **Untapped recruitment markets identified.** Gray states on the geographic map represent regions with no current Skyborne enrollment. Expanding into these markets could diversify and grow the trainee pipeline.
+
+---
+
+## Limitations & Recommended Next Steps
+
+| Limitation | Impact | Recommendation |
+|------------|--------|----------------|
+| Per-phase training duration | Only a single average phase duration per trainee was available. True phase-by-phase performance analysis was not possible. | Capture individual phase completion dates and durations in the source system. |
+| Phase-level dropout analysis | Dataset records only final placement outcome with no milestone or checkpoint data. Identifying where in the pipeline trainees disengage was not possible. | Add phase completion status fields to track dropout points in real time. |
+| Time to placement after graduation | No graduation date or hire date fields exist. Average time between program completion and airline placement could not be calculated. | Add graduation date and first day of employment fields to enable this metric in a future iteration. |
+| Demographic analysis | No demographic fields such as age, educational background, or prior aviation experience exist. Cohort analysis was limited to geography, training duration, and instructor assignment. | Consider collecting relevant background data at enrollment to enable richer cohort segmentation. |
+
+
+
 ## Technical Details
 - Built in **Microsoft Power BI Desktop**
 - 16 custom DAX measures in a dedicated measures table
