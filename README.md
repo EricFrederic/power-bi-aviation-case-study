@@ -1,4 +1,4 @@
-# Aviation Workforce Analytics — Power BI Case Study
+# Aviation Workforce Analytics: Power BI Case Study
 
 ## Business Problem
 
