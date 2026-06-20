@@ -6,7 +6,7 @@ A flight training academy needed to understand which factors most strongly influ
 
 ### Overview
 
-**Interactive Power BI Dashboard** analyzing trainee placement outcomes for a regional aviation training academy.
+**Interactive Power BI Report** analyzing trainee placement outcomes for a regional aviation training academy.
 
 ## Key Findings & Insights
 
