@@ -3,6 +3,10 @@
 **Overview**
 
 **Interactive Power BI Dashboard** analyzing trainee placement outcomes for a regional aviation training academy.
+
+(<img width="706" height="389" alt="SB" src="https://github.com/user-attachments/assets/90e1832b-80bf-41ae-a91c-9067faba90d0" />
+)
+
 ## Key Findings
 - **Overall Placement Rate**: 83.5%
 - **Strongest Predictor of Success**: Instructor assignment (28.7 percentage point gap between top and bottom performers)
