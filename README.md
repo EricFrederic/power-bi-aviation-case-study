@@ -51,7 +51,7 @@ A flight training academy needed to understand which factors most strongly influ
 ## Technical Details
 - Built in **Microsoft Power BI Desktop**
 - 16 custom DAX measures in a dedicated measures table
-- Semantic data model with star schema architecture
+- Semantic data model built in Power BI
 - Synthetic dataset of 200 trainees
 - Data cleaning performed in Power Query
 - Calculated placement-rate measures
