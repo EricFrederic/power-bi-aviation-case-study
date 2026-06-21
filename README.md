@@ -59,6 +59,17 @@ A flight training academy needed to understand which factors most strongly influ
 - Created instructor-performance comparisons
 - Designed interactive filtering across pages
 
+- ### Key DAX Measures
+
+| Measure | Formula | Purpose |
+|---------|---------|---------|
+| Placement Rate | `DIVIDE([Placed Trainees], [Total Trainees])` | Calculates placement rate dynamically in filter context |
+| Placed Trainees | `CALCULATE(COUNTROWS(StudentData), StudentData[Placement Status] = "Placed")` | Counts placed trainees, responds to slicer selections |
+| Avg Training Duration | `AVERAGE(StudentData[Total Months in Training])` | Average months in training across filtered dataset |
+| Placement Rate by State | `DIVIDE(CALCULATE(COUNTROWS(StudentData), StudentData[Placement Status] = "Placed"), COUNTROWS(StudentData))` | State-level placement rate for geographic analysis |
+
+All measures are evaluated dynamically in filter context, meaning they automatically recalculate based on active slicers, filters, and visual interactions without storing redundant data in the model.
+
 ## Tools Used
 - Power BI Desktop
 - DAX
