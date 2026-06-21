@@ -4,7 +4,7 @@
 
 A flight training academy needed to understand which factors most strongly influence trainee placement outcomes and identify opportunities to improve recruitment, training effectiveness, and airline partnerships. The goal of this analysis was to evaluate trainee performance, instructor effectiveness, and geographic recruiting trends in order to identify actionable opportunities to improve placement rates.
 
-### Overview
+## Overview
 
 **Interactive Power BI Report** analyzing trainee placement outcomes for a regional aviation training academy.
 
@@ -23,19 +23,19 @@ A flight training academy needed to understand which factors most strongly influ
 - **Untapped recruitment markets identified.** Gray states on the geographic map represent regions with no current Skyborne enrollment. Expanding into these markets could diversify and grow the trainee pipeline.
 
 ## Dashboard Pages
-- **Executive Overview** — High-level KPIs and placement summary
+**Executive Overview** — High-level KPIs and placement summary
 <img width="706" height="389" alt="SB" src="https://github.com/user-attachments/assets/90e1832b-80bf-41ae-a91c-9067faba90d0" />
 
-- **Training Performance** — Duration analysis and phase breakdowns
+**Training Performance** — Duration analysis and phase breakdowns
 <img width="699" height="392" alt="Screenshot 2026-06-20 144321" src="https://github.com/user-attachments/assets/669c4e87-a142-4a7e-b45d-442c4ffddb1f" />
 
-- **Airline Placement** — Partner network and geographic distribution
+**Airline Placement** — Partner network and geographic distribution
 <img width="701" height="394" alt="Screenshot 2026-06-20 144435" src="https://github.com/user-attachments/assets/cf4a9584-b550-4a9c-8a1f-1d7fa05c12c1" />
 
-- **Instructor & Cohort Performance** — Instructor effectiveness analysis
+**Instructor & Cohort Performance** — Instructor effectiveness analysis
 <img width="707" height="396" alt="Screenshot 2026-06-21 140457" src="https://github.com/user-attachments/assets/de14ac5c-91e2-45e1-a338-04686b482501" />
 
-- **Insights & Recommendations** — Key findings and strategic recommendations
+**Insights & Recommendations** — Key findings and strategic recommendations
 
 ## Limitations & Recommended Next Steps
 
@@ -59,7 +59,7 @@ A flight training academy needed to understand which factors most strongly influ
 - Created instructor-performance comparisons
 - Designed interactive filtering across pages
 
-- ### Key DAX Measures
+## Key DAX Measures
 
 | Measure | Formula | Purpose |
 |---------|---------|---------|
