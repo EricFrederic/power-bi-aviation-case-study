@@ -35,8 +35,6 @@ A flight training academy needed to understand which factors most strongly influ
 **Instructor & Cohort Performance** — Instructor effectiveness analysis
 <img width="707" height="396" alt="Screenshot 2026-06-21 140457" src="https://github.com/user-attachments/assets/de14ac5c-91e2-45e1-a338-04686b482501" />
 
-**Insights & Recommendations** — Key findings and strategic recommendations
-
 ## Limitations & Recommended Next Steps
 
 | Limitation | Impact | Recommendation |
