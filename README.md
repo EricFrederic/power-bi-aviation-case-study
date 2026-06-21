@@ -12,7 +12,7 @@ A flight training academy needed to understand which factors most strongly influ
 
 - **83.5% overall placement rate**. 167 of 200 trainees placed across 25 airline partners, establishing a strong performance benchmark for the academy.
 
-- **Instructor assignment is the strongest predictor of placement success.** Charlotte Brooks and Mia Collins achieved 96.6% placement rates while Daniel Cooper achieved 67.9% — a 28.7 percentage point gap that warrants immediate attention and further investigation.
+- **Instructor assignment showed the strongest association with placement success.** Charlotte Brooks and Mia Collins achieved 96.6% placement rates while Daniel Cooper achieved 67.9% — a 28.7 percentage point gap that warrants immediate attention and further investigation.
 
 - **Training duration does not predict placement outcome.** Placed and unplaced trainees trained for nearly identical durations (18.0 vs. 18.9 months). This suggests that early intervention based on time-in-training alone would be misguided.
 
