@@ -33,7 +33,7 @@ A flight training academy needed to understand which factors most strongly influ
 <img width="701" height="394" alt="Screenshot 2026-06-20 144435" src="https://github.com/user-attachments/assets/cf4a9584-b550-4a9c-8a1f-1d7fa05c12c1" />
 
 - **Instructor & Cohort Performance** — Instructor effectiveness analysis
-<img width="701" height="394" alt="Screenshot 2026-06-20 175949" src="https://github.com/user-attachments/assets/41c2ba6b-86b5-4cc1-8c6c-d1cb468257be" />
+<img width="707" height="396" alt="Screenshot 2026-06-21 140457" src="https://github.com/user-attachments/assets/de14ac5c-91e2-45e1-a338-04686b482501" />
 
 - **Insights & Recommendations** — Key findings and strategic recommendations
 
